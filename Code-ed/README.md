@@ -1,2 +1,0 @@
-# Code-ed
-Educational Website
